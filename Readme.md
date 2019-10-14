@@ -1,4 +1,5 @@
-![iWen](https://s2.ax1x.com/2019/10/14/KSOM5j.png) # iWen is a software support IM and cloud saving.
+<img src="https://s2.ax1x.com/2019/10/14/KSOM5j.png" width = "100" height = "100" alt="iWen" align=left />
+# iWen is a software support IM and cloud saving.
 
 ## Server:
  &nbsp;&nbsp;### Protocol : TCP/UDP
