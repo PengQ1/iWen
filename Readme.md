@@ -1,4 +1,4 @@
-<img src="https://s2.ax1x.com/2019/10/14/KSOM5j.png" width = "100" height = "100" alt="iWen" align=left />
+<img src="https://s2.ax1x.com/2019/10/14/KSOM5j.png" width = "40" height = "40" alt="iWen" align=left />
 
 # iWen is a software support IM and cloud saving.
 
