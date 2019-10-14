@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 #include<unistd.h>
 #include<pthread.h>
 
@@ -20,7 +21,7 @@ int main(int argc, char *argv[])
 	pthread_attr_init(&attr);
 	pthread_create(&td, &attr, printNumber, argv[1]);
 	
-	pthread_join(td, NULL);
+	//pthread_join(td, NULL);
 
 	fprintf(stderr, "%s\n", "Success");
 
